@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hey, I'm Alexandra Fernández!</h1>  
+
+<h1 align="center"> Hi !  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Alexandra Fernández </h1>
+
 
 <p align="center">
   <img valign="middle" height="50px" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&size=24&color=FF69B4">
@@ -37,6 +39,13 @@ Aquí estaré practicando y guardando mis avances en el camino de la programaci�
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<p align= "center">
+  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+</p>
+
+
 
 
 
