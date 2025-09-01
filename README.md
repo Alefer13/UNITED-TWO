@@ -1,9 +1,17 @@
-<h1 align="center">👋 Hey, I'm Alexandra Fernández!</h1>  
+<div align="center">
+  <!-- Título / Nombre -->
+  <h1 style="color:#FF69B4; font-family:Arial, sans-serif; margin-bottom:10px;">
+    👋 Hey, I'm Alexandra Fernández!
+  </h1>
 
-<p align="center">
-  <img valign="middle" height="50px" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&size=24&color=FF69B4">
-  <img valign="middle" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-</p>
+  <!-- Texto animado "Welcome" alineado con el título -->
+  <img height="50px" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&size=24&color=FF69B4" style="margin-bottom:20px;">
+
+  <!-- GIF decorativo -->
+  <br>
+  <img height="300px" width="320px" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="GIF">
+</div>
+
 
 
 
