@@ -1,11 +1,9 @@
 <h1 align="center">👋 Hey, I'm Alexandra Fernández!</h1>  
 
 <p align="center">
-  <img height="50px" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&size=24&color=FF69B4">
-  <img height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  <img valign="middle" height="50px" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&size=24&color=FF69B4">
+  <img valign="middle" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </p>
-
----
 
 
 
