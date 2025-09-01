@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<p align="left">
  <img height="300px" width="600px" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30&color=FF69B4">
 
 
