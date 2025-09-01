@@ -1,7 +1,6 @@
 
 <h1 align="center"> Hi !  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Alexandra Fernández </h1> 
 
-
 <p align="center">
   <img valign="middle" height="50px" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&size=24&color=FF69B4">
   <img valign="middle" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
