@@ -6,8 +6,6 @@
  <img height="300px" width="600px" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30&color=800000">
 
 
-
-
 <img align="center" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ---
