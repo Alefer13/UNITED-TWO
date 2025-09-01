@@ -12,14 +12,14 @@
 
 
 
-
-### Sobre este repo
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Sobre este repo </b>
   
 Hola! Este es mi espacio para aprender a usar *Git* y *GitHub*, además de organizar mis proyectos.  
 
 Aquí estaré practicando y guardando mis avances en el camino de la programación web.  
 
-### ¿Qué encontrarás aquí?
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> ¿Qué encontrarás aquí?</b>
+
 - 💡 Ejercicios de aprendizaje  
 - 💻 Proyectos con *HTML, CSS y JavaScript*
 - 👨🏽‍💻 Mis avances como estudiante de programación 
