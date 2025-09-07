@@ -1,5 +1,11 @@
 //ARRAYS (ARREGLOS)
 
+// Al igual que con una string, podemos acceder a los elementos por indice, ademas de obtener el tamaño (length) de un array
+// console.log(`El tamaño del array es ${numbers.length}`);
+// console.log(`Primer elemento del arreglo: ${numbers[0]}`);
+// console.log(`Último elemento del arreglo: ${numbers[numbers.length - 1]}`);
+
+
 let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 console.log(numbers);
 
@@ -7,6 +13,7 @@ let size = numbers.length;   //al igual que con una string podemos acceeder los 
 console.log(`El tamaño del array es: ${numbers.length}`);
 console.log(`Primer elemento del arreglo es: ${numbers[0]}`);
 console.log(`Ultimo elemento del arreglo es: ${numbers[size-1]}`);
+
 
 //RETO 1
 /*Crea un arreglo que almacene nombres de frutas, 
@@ -23,6 +30,35 @@ console.log(`Ultimo elemento del arreglo es: ${fruits[size2-2]}`);
 console.log(`Ultimo elemento del arreglo es: ${fruits[size2-3]}`);
 console.log(`Ultimo elemento del arreglo es: ${fruits[size2-4]}`);
 
+
+// ===================================================
+let num1 = 18; // Se declara la variable num1 y se le asigna el valor 18.
+
+num1 = num1 + 1; // Se suma 1 al valor actual de num1 (ahora vale 19).
+console.log(num1); // Muestra 19 en consola.
+
+num1 += 5; // Se suma 5 al valor actual de num1 (ahora vale 24).
+console.log(num1); // Muestra 24 en consola.
+
+num1 -= 1; // Se resta 1 al valor actual de num1 (ahora vale 23).
+console.log(num1); // Muestra 23 en consola.
+
+// Operador de incremento
+num1++; // Incrementa num1 en 1 (ahora vale 24).
+console.log(num1); // Muestra 24 en consola.
+
+num1++; // Incrementa num1 en 1 (ahora vale 25).
+console.log(num1); // Muestra 25 en consola.
+
+// Operador de decremento
+num1--; // Disminuye num1 en 1 (ahora vale 24).
+console.log(num1); // Muestra 24 en consola.
+
+num1--; // Disminuye num1 en 1 (ahora vale 23).
+console.log(num1); // Muestra 23 en consola.
+
+
+
 //BUCLES
 for (let i = 1; i <= 10; i++) {
     console.log(`valor de i = ${i}`);
@@ -34,6 +70,11 @@ for (let i = 10; i <= 50; i+=10) {    //el i+=10 hace q vaya de 10 en 10, i++ ha
     console.log(i);
 } 
 
+// Imprime los numeros del 10 al 100, de 10 en 10
+for (let i = 10; i <= 100; i+=10) {
+    console.log(i);
+}
+
 //muestra los numeros del 0 al 26, de 3 en 3
 for (let i = 0; i <= 26; i+=3) {
     console.log(i);
@@ -44,6 +85,8 @@ console.log("Cuenta regresiva del 10 al -10");
 for (let i = 10; i >=-10; i--){ 
     console.log(i);
 }
+
+
 
 //WHILE
 console.log("NUMEROS DEL 1 AL 10");
@@ -71,6 +114,7 @@ do{
 //ITERAR= recorrer un arreglo
 let words = ["hola", "mundo", "javascript", "es", "genial"];
 console.log(words);
+
 for (let i = 0; i < words.length; i++) {
     console.log(words[i]);
 }
@@ -82,6 +126,8 @@ for (let i = words.length -1; i >=0; i--) {
     console.log(words[i]);
     auxWords.push(words[i]);
 }
+console.log(auxWords);
+
 
 
 
